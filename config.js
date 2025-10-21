@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "584 Jessup Street",
     "city": "NaN",
@@ -101,6 +101,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-804",
     "tag": "Open House 584 Jessup Street",
     "netlifyUrl": null,
-    "siteId": "1080720251"
+    "siteId": "1ca81a74-6ef7-4d93-abcd-a09a0efe5672"
   }
 }

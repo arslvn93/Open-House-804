@@ -9,7 +9,7 @@ const config = {
     "homeType": "2 Storey",
     "backgroundImageUrl": "https://i.ibb.co/qL5G7RMS/Get-Media-1.jpg",
     "listingPhoto2": "https://api.typeform.com/responses/files/a1d93584018b5d828b16122ddef78f05ea66e3597a1bb5bd4689c388aba71b9b/Team_Meeting_In_Progress.png",
-    "heroSubtitle": "Schedule for open house on October 26, 2025. Register to get property info, floor plans, and comparables."
+    "heroSubtitle": "Completely renovated 3-bed, 1-bath home just blocks from the St. Lawrence River—listed at $449,900! Explore this turnkey gem at our open house. Register for updates, virtual tour, and more information."
   },
   "realtor": {
     "fullName": "Driscoll-Peca Team",

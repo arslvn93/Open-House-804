@@ -33,36 +33,12 @@ const config = {
     "eventDate": "2025-10-26",
     "bundleItems": [
       {
-        "icon": "fas fa-ruler-combined",
-        "text": "Architectural Floor Plan"
+        "icon": "fas fa-link",
+        "text": "Property Listing Link"
       },
       {
         "icon": "fas fa-star",
-        "text": "Neighbourhood Guide"
-      },
-      {
-        "icon": "fas fa-check-circle",
-        "text": "Market Stats"
-      },
-      {
-        "icon": "fas fa-car",
-        "text": "School District Information"
-      },
-      {
-        "icon": "fas fa-key",
-        "text": "Financing Resources"
-      },
-      {
-        "icon": "fas fa-home",
-        "text": "Utility Cost Estimates"
-      },
-      {
-        "icon": "fas fa-map-location-dot",
-        "text": "Property Feature List"
-      },
-      {
-        "icon": "fas fa-image",
-        "text": "Home Inspection Tips"
+        "text": "Virtual Tour"
       }
     ]
   },

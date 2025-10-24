@@ -15,9 +15,9 @@ const config = {
     "fullName": "Driscoll-Peca Team",
     "title": "REALTOR®",
     "phone": "1 (613) 706-0072",
-    "email": "trevor@driscollpeca.com",
-    "bio": "With years of real estate service under our belt, I can assure you that you are in good hands. i'm committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers.\n\nWith deep local knowledge and a true passion for real estate, I'M committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — I can't wait to work with you!",
-    "photoUrl": "https://i.ibb.co/99fMmw9t/Agent-Headshots-20.png",
+    "email": "nicole@driscollpeca.com",
+    "bio": "Nicole is originally from Carleton Place, and has proudly called Kemptville home for the past five years. With a strong background in real estate administration and now as a licensed agent, she combines professional expertise with a genuine passion for helping people.\n\nAs a mother of three, she understands the importance of finding not just a house, but a home that truly fits a family’s needs. She is dedicated to guiding buyers and sellers in Kemptville and the surrounding areas through every step of the market with confidence and care",
+    "photoUrl": "https://i.ibb.co/KcWPc7rn/Agent-Headshots-9.png",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://www.instagram.com/driscollpecateam/",

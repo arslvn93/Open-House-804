@@ -20,7 +20,7 @@ const config = {
     "photoUrl": "https://i.ibb.co/99fMmw9t/Agent-Headshots-20.png",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/ae.parks",
+      "instagram": "https://www.instagram.com/driscollpecateam/",
       "website": "http://driscollpeca.com/privacy.html"
     }
   },

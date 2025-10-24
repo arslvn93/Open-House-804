@@ -21,7 +21,7 @@ const config = {
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
-      "website": ""
+      "website": "http://driscollpeca.com/privacy.html"
     }
   },
   "brokerage": {
